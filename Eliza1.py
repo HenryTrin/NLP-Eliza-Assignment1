@@ -4,7 +4,6 @@ import math
 """
 9/23/2021
 Henry Trinh
-CS 4242 NLP PA 1
 Eliza the Career Counselor
 
 Description:
